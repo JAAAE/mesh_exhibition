@@ -1,1 +1,1 @@
-link:https://jaaae.github.io/mesh_exhibition
+link:https://jaaae.github.io/mesh_exhibition/
